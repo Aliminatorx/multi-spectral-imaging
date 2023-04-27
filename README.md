@@ -4,7 +4,7 @@ Multispectral Imaging with CAVE Dataset: code and data for my latest project exp
 ## CAVE DATA SET LINK: 
 https://www.cs.columbia.edu/CAVE/databases/multispectral/
 
-### Super Resolution using the CAVE Dataset
+# Super Resolution using the CAVE Dataset
 
 ## Introduction
 This repository contains code for a machine learning approach to super resolution using the CAVE dataset from Columbia University. Our approach takes as input a low resolution hyperspectral image and a high resolution RGB image and produces as output an image with both high spatial and high spectral resolution. We evaluate the performance of the model using various metrics and discuss the results.
