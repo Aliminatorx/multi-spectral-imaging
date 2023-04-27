@@ -14,6 +14,7 @@ We begin by importing libraries and accessing the data from the CAVE dataset. Th
 
 ## Dataset
 The 32 scenes in the database are split up into 5 sections. Every scene has a corresponding zip file. These zip files contain reflectance data in full spectral resolution in steps of 10 nm from 400 to 700 nm (31 bands total). A PNG image in 16-bit grayscale is used to store each band. Additionally, each scene includes a single typical colour image that is produced using sRGB values and displayed under a daylight illumination (D65).
+https://www.cs.columbia.edu/CAVE/databases/multispectral/
 
 ## Requirements
 Python 3.6+
